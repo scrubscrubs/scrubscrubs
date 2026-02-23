@@ -1,5 +1,4 @@
-<div dir="rtl">متن فارسی</div>
-hi
+<div dir="rtl">hi</div>
 
 <!--
 **scrubscrubs/scrubscrubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
