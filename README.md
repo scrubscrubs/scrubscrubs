@@ -1,4 +1,5 @@
-<div dir="rtl">hi</div>
+<p align="center">
+hi
 
 <!--
 **scrubscrubs/scrubscrubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
