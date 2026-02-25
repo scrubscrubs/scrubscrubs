@@ -1,6 +1,9 @@
 <p align="center">
 hi
 
+<p align="center">
+do not take me seriously, i just say gibberish to random people
+
 <!--
 **scrubscrubs/scrubscrubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
