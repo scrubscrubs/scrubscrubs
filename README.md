@@ -5,7 +5,7 @@ hi
 do not take me seriously, i just say gibberish to random people
 
 <p align="center">
-i am not leleleelleel but they are cool
+i am not lelele but they are cool
 
 <!--
 **scrubscrubs/scrubscrubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
